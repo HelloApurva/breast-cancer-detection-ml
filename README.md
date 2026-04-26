@@ -36,4 +36,4 @@ Deploy the model as a web application
 Apoorva Sharma
 Mathematics Graduate | Data Science | AI & ML
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](data/images/confusion_matrix.png)
